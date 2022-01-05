@@ -1,0 +1,22 @@
+.equal-2{
+    display:flex;
+    box-shadow: 40px;
+}
+.equal-width-2{
+    width: 50%;
+    margin:0 100px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 50px;
+}
+#unique-1{
+    border-left: 10px solid;
+    background-image:linear-gradient(orange,aqua,rgba(0, 0, 255, 0.685));
+    border-image:linear-gradient(yellow,red);
+    border-image-slice: 1;
+}
+#unique-2{
+    border-left: 10px solid ;
+    background-image:linear-gradient(orange,aqua,rgba(0, 0, 255, 0.726));
+    border-image:linear-gradient(red,yellow);
+    border-image-slice: 1;
+}
